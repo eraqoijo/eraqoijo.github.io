@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eraqoijo.github.io/TcZ/sitemap_index.txt
+Sitemap: https://eraqoijo.github.io/WdL/sitemap_index.txt
+Sitemap: https://eraqoijo.github.io/cOx/sitemap_index.txt
+Sitemap: https://eraqoijo.github.io/qtv/sitemap_index.txt
